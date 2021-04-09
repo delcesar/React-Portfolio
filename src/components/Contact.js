@@ -2,7 +2,7 @@ import React from "react";
 
 export function Contact() {
   return (
-    <div className="wrapper wrapper--home">
+    <div className="wrapper wrapper--contact">
       <div className="container">
         <h1 className="title">Contact</h1>
 

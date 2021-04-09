@@ -2,7 +2,7 @@ import React from "react";
 
 export function About() {
   return (
-    <div className="wrapper wrapper--home">
+    <div className="wrapper wrapper--about">
       <div className="container">
         <h1 className="title">About Me</h1>
         <p className="description">

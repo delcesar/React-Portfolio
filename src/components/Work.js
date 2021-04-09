@@ -2,7 +2,7 @@ import React from "react";
 
 export function Work() {
   return (
-    <div className="wrapper wrapper--home">
+    <div className="wrapper wrapper--work">
       <div className="container">
         <h1 className="title">My Work</h1>
         <p className="description">
