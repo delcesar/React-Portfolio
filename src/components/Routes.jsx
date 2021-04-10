@@ -16,7 +16,7 @@ export function Routes() {
       <Route
         render={({ location }) => (
           <PageTransition
-            preset="moveToLeftFromRight"
+            preset="fadeFromBottom"
             transitionKey={location.pathname}
           >
             <Switch location={location}>
